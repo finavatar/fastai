@@ -14,3 +14,6 @@ _book
 *.epub
 *.mobi
 *.pdf
+#exported fastai file
+*.pk1
+*.pkl
